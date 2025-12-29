@@ -1,26 +1,5 @@
-# Virtual environments
+Data
+mlruns
+models
 fnol_env/
-venv/
-env/
-.venv/
-
-# Data and models
-Data/
-models/
-mlruns/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Environment variables
 .env
-.env.local
