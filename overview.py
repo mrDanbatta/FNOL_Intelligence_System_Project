@@ -8,7 +8,7 @@ import streamlit as st
 @st.cache_data
 def load_data():
     """Load and cache the claims data"""
-    return pd.read_csv('data/claims_policy_merged_cleaned.csv')
+    return pd.read_csv('Data/claims_policy_merged_cleaned.csv')
 
 def overview(stats):
     """
